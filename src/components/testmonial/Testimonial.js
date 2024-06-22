@@ -83,7 +83,7 @@ setDotActive(next);
   };
   return (
     <section
-      id="resume"
+      id="testimonial"
       className="w-full py-200 border-b-[1px] border-b-black"
     >
       <div className="flex justify-center items-center text-center">
