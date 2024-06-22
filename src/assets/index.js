@@ -7,7 +7,8 @@ import testimonialOne from "./images/testmonial/testimonialOne.png"
 import testimonialTwo from "./images/testmonial/testimonialTwo.png"
 import quote from "./images/testmonial/quote.png"
 import contactImg from "./images/contact/contactImg.png"
-
+import Booking from "./images/projects/Booking.jpg"
+import FoodClone from "./images/projects/FoodClone.jpg"
 export{
     logo,
     bannerImg,
@@ -18,5 +19,7 @@ export{
     testimonialTwo,
     quote,
     contactImg,
+    Booking,
+    FoodClone
 };
 
